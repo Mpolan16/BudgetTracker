@@ -18,7 +18,7 @@ Deployed webpage:
 
 Whether you have internet or not use this app to track your monthly budget expenses. Just enter your income and expenses, and it will automatically generate a graph with that information.
 
-Thumbnail:
+![Thumbnail of Budget Tracker App](./public/assets/img/BudgetTrackerThumbnail.png)
 
 
 ## Technology
