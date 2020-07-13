@@ -14,7 +14,7 @@ The Budget Tracker is an easy way to track your expenses on and offline.
 
 
 ## Usage
-Deployed webpage:
+https://shielded-basin-44902.herokuapp.com
 
 Whether you have internet or not use this app to track your monthly budget expenses. Just enter your income and expenses, and it will automatically generate a graph with that information.
 
